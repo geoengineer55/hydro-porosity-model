@@ -1,21 +1,15 @@
-# Hydro-Porosity-Model
-Universal Power-Law for Effective Porosity Estimation
-# Overview
+Empirical Modeling of Effective Porosity and Specific Capacity
 
-This repository provides the analytical framework and data supporting a universal power-law formula for estimating effective porosity based on specific capacity (q/s).
-# The Formula
+This repository contains the technical framework and data for a universal power-law formula used to estimate effective porosity (ne​) based on specific capacity (q/s). This method has been validated across diverse hydrogeologic environments, including karstic, volcanic, and crystalline rock aquifers.
+The Formula
 
-The primary empirical model developed in this research is:
+The relationship is defined by the following power-law equation:
+ne​=0.1508(sq​)0.0826
+Variable Definitions and Units
 
-$$ne​=0.1508(q/s) ^(0.0826)$$
-
-Where ne​ is effective porosity, and q/s is specific capacity (m^2/day).
-# Validation
-
-The model has been validated across diverse hydrogeologic environments, including:
-
-    Karstic and volcanic aquifers.
-
-    Crystalline rock systems.
-
-    Regional groundwater models.
+To maintain consistency with international groundwater modeling standards, the following units are utilized:
+Variable	Description	Units
+ne​	Effective Porosity	Dimensionless (decimal)
+q/s	Specific Capacity	m2/day
+q	Well Discharge	m3/day
+s	Drawdown	m
