@@ -24,3 +24,18 @@ This work scales hydrodynamic parameters across varied lithologies (sedimentary,
 
 ---
 **James Wilkinson, PhD, PG**
+
+## How to Cite
+
+If you use this data or the effective porosity formula in your research, please cite the following manuscript:
+
+> Wilkinson, J. (2026). *Empirical Modeling of Effective Porosity and Groundwater Velocity using Specific Capacity.* [Journal Name/In Prep].
+
+**BibTeX:**
+@article{wilkinson2026porosity,
+  author = {Wilkinson, James},
+  title = {Empirical Modeling of Effective Porosity and Groundwater Velocity using Specific Capacity},
+  journal = {Hydrogeology Journal},
+  year = {2026},
+  note = {Data and formulas available at: [Link to your GitHub]}
+}
