@@ -29,7 +29,7 @@ This work scales hydrodynamic parameters across varied lithologies (sedimentary,
 
 If you use this data or the effective porosity formula in your research, please cite the following manuscript:
 
-> Wilkinson, J. (2026). *Empirical Modeling of Effective Porosity and Groundwater Velocity using Specific Capacity.* [Journal Name/In Prep].
+> Wilkinson, J. (2026). *Empirical Modeling of Effective Porosity and Groundwater Velocity using Specific Capacity.* [Hydrogeology Journal/In Prep].
 
 **BibTeX:**
 @article{wilkinson2026porosity,
