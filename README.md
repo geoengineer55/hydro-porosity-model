@@ -7,7 +7,7 @@ This repository provides the analytical framework and data supporting a universa
 
 The primary empirical model developed in this research is:
 
-$$ne​=0.1508(q/s) 0.0826$$
+$$ne​=0.1508(q/s) ^0.0826$$
 
 Where ne​ is effective porosity, and q/s is specific capacity (m^2/day).
 # Validation
